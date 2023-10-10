@@ -16,8 +16,8 @@
 .layer{
     position: absolute;
     width: 110%;
-    height: 100%;
-    /*/top:-10%;/*/
+    height: 110%;
+    top:-10%;
     left: -10%;
 }
 
